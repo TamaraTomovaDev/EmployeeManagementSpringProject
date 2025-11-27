@@ -37,10 +37,10 @@ org.intecbrussel.employeeproject
 - Jakarta Validation
 
 ## 🌐 Endpoints
-| Methode | Endpoint            | Beschrijving                  |
-|---------|----------------------|--------------------------------|
-| GET     | `/api/employees`     | Alle werknemers ophalen       |
-| GET     | `/api/employees/{id}`| Werknemer op ID ophalen       |
-| POST    | `/api/employees`     | Nieuwe werknemer toevoegen    |
-| PUT     | `/api/employees/{id}`| Werknemer updaten             |
-| DELETE  | `/api/employees/{id}`| Werknemer verwijderen         |
+| Methode | Endpoint     | Beschrijving                  |
+|---------|--------------|--------------------------------|
+| GET     | `/employees` | Alle werknemers ophalen       |
+| GET     | `/employees/{id}`| Werknemer op ID ophalen       |
+| POST    | `/employees` | Nieuwe werknemer toevoegen    |
+| PUT     | `/employees/{id}`| Werknemer updaten             |
+| DELETE  | `/employees/{id}`| Werknemer verwijderen         |
